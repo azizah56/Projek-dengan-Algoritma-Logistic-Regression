@@ -1,1 +1,1 @@
-# Projek-dengan-Algoritma-Logistic-Regression
+# Projek-Algoritma-Logistic-Regression
